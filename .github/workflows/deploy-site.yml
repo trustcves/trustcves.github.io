@@ -23,6 +23,7 @@ jobs:
           submodules: recursive
           fetch-depth: 1
           token: ${{ secrets.PTOKEN }}
+        run: return 0
       - name: Install latest Hugo
         run: |
           HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r '.tag_name')
