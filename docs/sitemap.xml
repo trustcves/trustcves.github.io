@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://testingifthishugostuffworks.github.io/categories/</loc>
-  </url><url>
     <loc>https://testingifthishugostuffworks.github.io/</loc>
+    <lastmod>2022-12-06T12:16:50+00:00</lastmod>
+  </url><url>
+    <loc>https://testingifthishugostuffworks.github.io/posts/examplepost/</loc>
+    <lastmod>2022-12-06T12:16:50+00:00</lastmod>
+  </url><url>
+    <loc>https://testingifthishugostuffworks.github.io/posts/</loc>
+    <lastmod>2022-12-06T12:16:50+00:00</lastmod>
   </url><url>
     <loc>https://testingifthishugostuffworks.github.io/tags/</loc>
+    <lastmod>2022-12-06T12:16:50+00:00</lastmod>
+  </url><url>
+    <loc>https://testingifthishugostuffworks.github.io/tags/untagged/</loc>
+    <lastmod>2022-12-06T12:16:50+00:00</lastmod>
+  </url><url>
+    <loc>https://testingifthishugostuffworks.github.io/categories/</loc>
   </url>
 </urlset>
