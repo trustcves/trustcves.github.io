@@ -31,6 +31,3 @@ jobs:
       - name: show directory 
         run: |
           ls -la ${{ github.workspace }}
-          ls -la ${{ github.workspace }}/docs
-          ls -la ${{ github.workspace }}/posts
-
