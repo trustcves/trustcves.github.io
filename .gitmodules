@@ -2,3 +2,6 @@
 	path = themes/hello-friend-ng
 	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
 
+[submodule "content/cve1"]
+	path = content/cve1
+	url = https://github.com/testingIfThisHugoStuffWorks/ExampleCVE.git
