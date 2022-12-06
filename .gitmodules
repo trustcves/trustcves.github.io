@@ -4,3 +4,6 @@
 [submodule "content/posts/cve1"]
 	path = content/posts/cve1
 	url = https://github.com/testingIfThisHugoStuffWorks/ExampleCVE.git
+[submodule "content/posts/cve2"]
+	path = content/posts/cve2
+	url = https://github.com/testingIfThisHugoStuffWorks/privateCVE.git
