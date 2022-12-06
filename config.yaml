@@ -1,0 +1,21 @@
+baseURL: https://testingifthishugostuffworks.github.io/
+languageCode: en-us
+theme: hello-friend-ng
+title: Vulnerability Disclosure
+
+
+author:
+  name: Simon Schönegger
+  about: This is created only for testing
+  domain: https://testingifthishugostuffworks.github.io/
+
+menu:
+  main: 
+    - name: CVEs
+      url: /posts
+      weight: 3
+  home:
+    - name: CVEs
+      identifier: CVEs
+      url: /posts
+ 
