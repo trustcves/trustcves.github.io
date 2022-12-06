@@ -2,5 +2,5 @@ baseURL = 'https://testingifthishugostuffworks.github.io/'
 languageCode = 'en-us'
 theme   = "hello-friend-ng"
 title = 'My New Hugo Site'
-publishDir = "docs"
+publishDir = "public"
 paginate = 10
