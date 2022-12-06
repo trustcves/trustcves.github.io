@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.PTOKEN }}
       #- name: Sync Submodule
       #  run: |
-      #    git pull --recurse-submodules
+      #    git pull --recurse-submodules 
       #    git submodule update --remote --recursive
       #- name: Commit Update
       #  run: |
