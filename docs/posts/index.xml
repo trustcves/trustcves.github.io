@@ -10,6 +10,18 @@
         
         <item>
             <title>MyVeryNicePost</title>
+            <link>https://testingifthishugostuffworks.github.io/posts/cves/test2/</link>
+            <pubDate>Tue, 06 Dec 2022 12:16:50 +0000</pubDate>
+            
+            <guid>https://testingifthishugostuffworks.github.io/posts/cves/test2/</guid>
+            <description>This is some very nice Content^1 content content content1</description>
+            <content type="html"><![CDATA[<h2 id="this-is-some-very-nice-content1">This is some very nice Content^1</h2>
+<p>content content content1</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>MyVeryNicePost</title>
             <link>https://testingifthishugostuffworks.github.io/posts/examplepost/</link>
             <pubDate>Tue, 06 Dec 2022 12:16:50 +0000</pubDate>
             
