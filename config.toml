@@ -54,10 +54,15 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "CVEs"
+        name = "CVEs"
+        url = "/posts"
+      [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "CVEs"
-        name = "CVEs"
-        url = "/posts"
+        identifier = "howto"
+        name = "How To"
+        url = "/howto"
+      
