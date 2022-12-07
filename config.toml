@@ -54,10 +54,9 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "CVEs"
+        identifier = "cves"
         name = "CVEs"
         url = "/posts"
-        pre = "<img src='/img/vulnerablity.png' height='18px'>"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
