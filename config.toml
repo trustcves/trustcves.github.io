@@ -57,6 +57,7 @@ paginate = 5
         identifier = "CVEs"
         name = "CVEs"
         url = "/posts"
+        pre = "<img src='/img/vulnerablity.png' height='18px'>"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
@@ -65,4 +66,3 @@ paginate = 5
         identifier = "howto"
         name = "How To"
         url = "/howto"
-      

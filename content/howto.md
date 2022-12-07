@@ -6,7 +6,7 @@ Vulnerabilities should only made public if:
 * The CNA checked the details and provided a CVE number
 
 # How to disclose?
-Assuming that all points above are fulfilled the disclosure process can be done using this page. There is a markdown template available for the disclosure process. The template for publishing can be downloaded [here](/template/publishTemplate.md). Read the comments in the markdown file and fill it.
+Assuming that all points above are fulfilled the disclosure process can be done using this page. There is a markdown template available for the disclosure process. The template for publishing can be [found here](/template/publishTemplate.md). Read the comments in the markdown file and fill it.
 
 Once the template has been filled out you can host your own **public** GitHub repository with the vulnerability, but it's advised to provide all of the information to me.
 
