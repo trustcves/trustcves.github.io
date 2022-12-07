@@ -1,12 +1,3 @@
----
-title: "CVE 2022 37783"
-date: 2022-12-06T12:16:50Z
-draft: false
-toc: false
-images:
-tags:
-  - untagged
----
 # CVE-2022-37783: Disclosure of password hashes
 **Affected Product:** Craft CMS  
 **Affected Versions:** 3.0.0 – 3.7.32  
