@@ -17,7 +17,8 @@ Once the template has been filled out you can host your own **public** GitHub re
   * images
     * image1.png
 
-The CI to automatically converts this to HTML and presents it on the page. All CVEs referenced using submodules. When using this structure, your *markdown.md* will not render images correctly in the preview, but it will be displayed correctly on the page.
+The CI to automatically converts this to HTML and presents it on the page. All CVEs referenced using submodules. When using this structure, your *markdown.md* will not render images correctly in the preview, but it will be displayed correctly on the page. 
+
 
 # What happens after the publishing?
 You have to inform the CNA that the Vulnerability has been published. Provide them with the link to the vulnerability on this site.
@@ -26,4 +27,4 @@ You have to inform the CNA that the Vulnerability has been published. Provide th
 [Bugcrowds' Responsible disclosure policy](https://github.com/bugcrowd/disclosure-policy)   
 [OWASPs' responsible disclosure cheat sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html)  
 [CNAs of mitre (who you contact regarding which product)](https://www.cve.org/PartnerInformation/ListofPartners)  
-[Submission form for mitre](https://cveform.mitre.org/)  
+[Submission form for MITRE](https://cveform.mitre.org/)   
