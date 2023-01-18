@@ -2,8 +2,6 @@ name: Deploy
 
 on: 
   push:
-  schedule:
-    - cron: '*/720 * * * *'
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
