@@ -65,3 +65,7 @@ paginate = 5
         identifier = "howto"
         name = "How To"
         url = "/howto"
+      [[languages.en.menu.main]]
+        identifier = "license"
+        name = "Licenses"
+        url = "/license"

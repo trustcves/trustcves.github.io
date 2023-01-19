@@ -1,0 +1,4 @@
+Contact: mailto:hello@cves.at
+Expires: 2024-01-19T22:59:00.000Z
+Preferred-Languages: en,de
+Canonical: https://cves.at/.well-known/security.txt
