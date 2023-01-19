@@ -47,7 +47,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://testingifthishugostuffworks.github.io
+      url: https://trustcves.github.io
     runs-on: ubuntu-latest
     needs: build
 
