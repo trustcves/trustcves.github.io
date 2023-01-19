@@ -1,4 +1,4 @@
-baseurl = "https://testingifthishugostuffworks.github.io/"
+baseurl = "https://trustcves.github.io/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
