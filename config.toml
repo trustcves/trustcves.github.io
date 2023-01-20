@@ -69,3 +69,7 @@ paginate = 5
         identifier = "license"
         name = "Licenses"
         url = "/license"
+      [[languages.en.menu.main]]
+        identifier = "Imprint"
+        name = "Imprint"
+        url = "/imprint"
