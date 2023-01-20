@@ -1,6 +1,3 @@
-{{define "head"}}
-<meta http-equiv="refresh" content="2;url=https://cves.at/posts" />
-{{end}}
 {{ define "body" }}
     <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
 {{ end }}
@@ -13,7 +10,7 @@
             {{ end }}
 
             <h1>{{ .Site.Title }}</h1>
-
+            <script>document.location="https://cves.at/posts"</script>
             {{ partial "subtitle.html" . }}
 
             {{- with .Site.Params.social }}
