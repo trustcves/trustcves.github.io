@@ -46,7 +46,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Vulnerability Disclosure"
-      logoHomeLink = "/"
+      logoHomeLink = "/favicon.ico"
     # or
     #  
     # path = "/img/your-example-logo.svg"
