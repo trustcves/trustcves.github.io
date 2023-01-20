@@ -26,7 +26,7 @@ paginate = 5
   # Show full page content in RSS feed items
   #(default is Description or Summary metadata in the front matter)
   # rssFullText = true
-
+  
 [languages]
   [languages.en]
     title = "Vulnerability Disclosure"
@@ -46,7 +46,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Vulnerability Disclosure"
-      logoHomeLink = "/favicon.ico"
+      logoHomeLink = "/"
     # or
     #  
     # path = "/img/your-example-logo.svg"
