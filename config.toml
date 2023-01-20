@@ -48,7 +48,7 @@ paginate = 5
       logoText = "Vulnerability Disclosure"
       logoHomeLink = "/"
     # or
-    #
+    # 
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
