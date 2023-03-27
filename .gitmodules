@@ -1,3 +1,7 @@
 [submodule "content/posts/cve-2022-37783"]
 	path = content/posts/cve-2022-37783
 	url = https://github.com/testingIfThisHugoStuffWorks/ExampleCVE.git
+
+[submodule "content/posts/CVE-2023-25263"]
+	path = content/posts/CVE-2023-25263
+	url = https://github.com/trustcves/CVE-2023-25263.git
