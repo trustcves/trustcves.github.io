@@ -29,3 +29,12 @@
 [submodule "content/posts/CVE-2023-35801"]
 	path = content/posts/CVE-2023-35801
 	url = git@github.com:trustcves/CVE-2023-35801.git
+[submodule "content/posts/cve-2024-24396"]
+	path = content/posts/cve-2024-24396
+	url = https://github.com/trustcves/CVE-2024-24396.git
+[submodule "content/posts/cve-2024-24397"]
+	path = content/posts/cve-2024-24397
+	url = https://github.com/trustcves/CVE-2024-24397.git
+[submodule "content/posts/cve-2024-24398"]
+	path = content/posts/cve-2024-24398
+	url = https://github.com/trustcves/CVE-2024-24398.git
