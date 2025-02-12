@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: Check out master and get private submodules
-        uses: actions/checkout@v2
+        uses: actions/checkout@v1
         with:
           submodules: recursive
           fetch-depth: 1
@@ -54,4 +54,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v1
