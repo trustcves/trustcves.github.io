@@ -13,9 +13,9 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: true
+
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -40,7 +40,7 @@ jobs:
       - name: Build site
         run: hugo --minify --cleanDestinationDir
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
           
@@ -54,4 +54,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
