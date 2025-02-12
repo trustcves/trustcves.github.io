@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: Check out master and get private submodules
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
         with:
           submodules: recursive
           fetch-depth: 1
@@ -40,7 +40,7 @@ jobs:
       - name: Build site
         run: hugo --minify --cleanDestinationDir
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
           
@@ -54,4 +54,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
