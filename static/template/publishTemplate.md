@@ -11,10 +11,15 @@ tags:
 ---
 <!-- These are required fields for the disclosure process -->
 **Affected Product:** Product  
+
 **Affected Versions:** FromVersion – ToVersion  
+
 **Fixed Version:** At Which version is it fixed?  
+
 **CVE-Number:** CVE-XXXX-XXXXX  
+
 **Severity:** X.X CVSS:....  
+
 <!-- Add your names. -->
 *Discovered by YOURNAMES*
 
